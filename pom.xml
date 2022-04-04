@@ -11,8 +11,8 @@
     <groupId>nl.novi</groupId>
     <artifactId>TechItEasy-11-21</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>TechItEasy-11-21</name>
-    <description>TechItEasy-11-21</description>
+    <name>opdrachteind</name>
+    <description>opdrachteind</description>
     <properties>
         <java.version>11</java.version>
     </properties>

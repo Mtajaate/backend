@@ -1,13 +1,13 @@
-package nl.novi.techiteasy1121;
+package nl.novi.opdrachteind;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TechItEasy1121Application {
+public class opdrachteindApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TechItEasy1121Application.class, args);
+        SpringApplication.run(opdrachteindApplication.class, args);
     }
 
 }
